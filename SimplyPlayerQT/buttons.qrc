@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/sown">
+        <file alias="Backward">C:/Users/Szymon/Desktop/GFX/default_black/sown/Backward_01.png</file>
+        <file alias="Play">C:/Users/Szymon/Desktop/GFX/default_black/sown/Forward.png</file>
+        <file alias="Forward">C:/Users/Szymon/Desktop/GFX/default_black/sown/Forward_01.png</file>
+        <file alias="Open">C:/Users/Szymon/Desktop/GFX/default_black/sown/open.png</file>
+        <file alias="Pause">C:/Users/Szymon/Desktop/GFX/default_black/sown/pause.png</file>
+        <file alias="Stop">C:/Users/Szymon/Desktop/GFX/default_black/sown/stop.png</file>
+    </qresource>
+    <qresource prefix="/hot">
+        <file alias="Backward">C:/Users/Szymon/Desktop/GFX/default_black/hot/Backward_01.png</file>
+        <file alias="Play">C:/Users/Szymon/Desktop/GFX/default_black/hot/Forward.png</file>
+        <file alias="Forward">C:/Users/Szymon/Desktop/GFX/default_black/hot/Forward_01.png</file>
+        <file alias="Open">C:/Users/Szymon/Desktop/GFX/default_black/hot/open.png</file>
+        <file alias="Pause">C:/Users/Szymon/Desktop/GFX/default_black/hot/pause.png</file>
+        <file alias="Stop">C:/Users/Szymon/Desktop/GFX/default_black/hot/stop.png</file>
+        <file alias="tlo">C:/Users/Szymon/Desktop/GFX/dark-metal-texture.png</file>
+    </qresource>
+    <qresource prefix="/normal">
+        <file alias="Backward">C:/Users/Szymon/Desktop/GFX/default_black/normal/Backward_01.png</file>
+        <file alias="Play">C:/Users/Szymon/Desktop/GFX/default_black/normal/Forward.png</file>
+        <file alias="Forward">C:/Users/Szymon/Desktop/GFX/default_black/normal/Forward_01.png</file>
+        <file alias="Open">C:/Users/Szymon/Desktop/GFX/default_black/normal/open.png</file>
+        <file alias="Pause">C:/Users/Szymon/Desktop/GFX/default_black/normal/pause.png</file>
+        <file alias="Stop">C:/Users/Szymon/Desktop/GFX/default_black/normal/stop.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="Blue">Play1NormalBlue.ico</file>
+        <file alias="Red">Play1NormalRed.ico</file>
+    </qresource>
+</RCC>
